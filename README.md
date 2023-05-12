@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)]
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl7bvI0s45QelXgjgjwtjQ5vNm507pr1FvLMWl9xg9tJsMvIIVHchB8757Ut_C6853Dp18OI5PWVwH6jqp99vDtfxfUzQSHpyOYkIod_6hcWXZECFDpDvzeuof6OtaP3yTznu82gU4A9D89Pq27NHbKNzYWIUZ4sn3Ioku8q-Y15O-qeMdP3lgRVM-/s1600/AI-Technology-Creation-Concept.gif)]
 <h1 align="center">Hi 👋, I'm Subhajit Pati</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
