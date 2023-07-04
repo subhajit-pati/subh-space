@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subhajitpati9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhajitpati9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhajit-pati-xyz2369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-pati-xyz2369" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhajit-pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajit-pati-xyz2369" height="30" width="40" /></a>
 <a href="https://fb.com/subhajit.pati.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhajit.pati.2002" height="30" width="40" /></a>
 <a href="https://instagram.com/subhajit.pati_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhajit.pati_02" height="30" width="40" /></a>
 </p>
