@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxj9dM2bcG31yYuAOamZ9jf4Kc7xZxAwFx2s2hu4ASQFkCn8VqmzzQpprnFleeFaWBlI72JQRk1xc_AYvfiv6jDXC-AW-Vwr1jrk7Exioj5ooUoHq1hcY7IU_WTnt2jKhiWmfDYi1VwmPsBZFtMpoTHYHtKkndVdzprWfZgClRFVHpLlTnFS6ZEhz/s1600/AI-Technology-Creation-Concept.gif))]
 <h1 align="center">Hi 👋, I'm Subhajit Pati</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
